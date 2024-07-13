@@ -1,0 +1,20 @@
+{
+  "name": "neuralnetworkpractice",
+  "version": "1.0.0",
+  "description": "learning neural nets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-watch": "tsc -w"
+  },
+  "author": "Peter Gustafson",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.5.0",
+    "tsx": "^4.16.2",
+    "typescript": "^5.0.3"
+  }
+}
